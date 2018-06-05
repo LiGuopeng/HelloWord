@@ -4,7 +4,7 @@ A:添加已有项目到GitHub
 ##2:克隆文件到本地（git  clone）     本地去修改
 ##3：将项目的所有文件添加到仓库中（git add .  之后     git add  文件名）
 ##4：提交到仓库（git commit -m "注释语句"）
-##5：将本地的仓库关联到GitHub，后面的https改成刚刚自己的地址（git remote add origin https://github.com/zlxzlxzlx/Test.git）》添加到远程项目，别名为origin
+##5：将本地的仓库关联到GitHub，后面的https改成刚刚自己的地址（git remote add origin https://github.com/zlxzlxzlx/Test.git）添加到远程项目，别名为origin
 ##6：上传github之前pull一下（git pull origin master）》》》》》》/在推送前看看别人有没有推送
 ##7：上传代码到GitHub远程仓库（git push -u origin master）
 B:更新代码
